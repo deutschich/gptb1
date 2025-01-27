@@ -1,0 +1,10 @@
+[
+    {
+        "title": "Welcome to My Blog",
+        "content": "This is the first static blog post!"
+    },
+    {
+        "title": "Second Post",
+        "content": "Here's another post for the blog."
+    }
+]
